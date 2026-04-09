@@ -174,6 +174,7 @@ Each file contains syntax rules, structural patterns, and annotated examples.
 | Python               | `references/python.md`                | Any `.py` file                                    |
 | TypeScript           | `references/typescript.md`            | Any `.ts` or `.tsx` file                          |
 | SQL                  | `references/sql.md`                   | Any `.sql`, migration, or raw query               |
+| NestJS               | `references/nestjs.md`                | Any project that is nest js project               |
 
 **Always load the reference file before producing any code output.**
 If a task spans multiple languages (e.g., a Laravel controller + a React component), load both files.
